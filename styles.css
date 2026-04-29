@@ -1,0 +1,139 @@
+.first-page {
+background-image: url("gloomyday.jpg");
+min-height: 100vh;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+
+.first-page {
+    text-align: center;
+    margin: 0;
+    margin-top: 50;
+    font-size: 4em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: blue;  
+}
+.main-body {
+    background-image: url("chestpainmom.jpg");
+    min-height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.main-header {
+    text-align: center;
+    margin: 0;
+    margin-top: 50;
+    font-size: 2em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: white;  
+    
+}
+.first-text {
+  background-color: lightblue;
+  width: 300px;
+  border: 5px solid rgb(23, 0, 128);
+  padding: 20px;
+  margin: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.options {
+margin: 0;
+display: inline-block;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: large;
+padding: .10em
+color green;
+text-align: center;
+}
+.options a:hover{
+background-color: aqua;
+}
+.general-head {
+     text-align: left;
+    margin: 0;
+    margin-top: 50;
+    font-size: 2em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: blue;  
+}
+.end-text {
+  background-color: lightblue;
+  width: 300px;
+  border: 5px darkred;
+  padding: 20px;
+  margin: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.ignore-it {
+    background-image: url("zen-business-woman-ignoring-men-1080x675.jpg");
+    min-height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.go-work {
+    background-image: url("waitress.jpg");
+    min-height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.go-doc {
+    background-image: url("doctors.jpg");
+    min-height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.open-email {
+    background-image: url("emails.jpg");
+    min-height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.day-off {
+    background-image: url("dayoff.jpg");
+    min-height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.clean-up {
+    background-image: url("cleanup.jpg");
+    min-height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.check-me {
+    background-image: url("emails.jpg");
+    min-height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.call-mom {
+    background-image: url("callmom.jpg");
+    min-height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+} 
